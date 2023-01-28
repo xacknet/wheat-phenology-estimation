@@ -7,4 +7,4 @@ tuning on 2021-2022 and testing on 2020-2021. The obtained multi-year phenologic
 phenological dates. The results are correlated with rate of change in weather data, smoothed at 15 and 90 day interval using
 moving average and cubic spline for in-depth correlation analysis between weather and phenology.
 
-![Methodology](./Methodology.jpg)
+
