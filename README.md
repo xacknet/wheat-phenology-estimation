@@ -1,4 +1,7 @@
 # wheat-phenology-estimation
+
+Predicting wheat phenology and analyzing the effect of climate on it can help combat food insecurity by providing valuable insights into the growth and development of wheat crops. By understanding the impact of climate on wheat phenology, farmers can make more informed decisions about when to plant, fertilize, irrigate, and harvest their crops. This can lead to higher yields, lower costs, and better food security. Additionally, predicting wheat phenology can help researchers identify new varieties of wheat that are better adapted to changing climate conditions. By developing more resilient crops, we can help ensure that food supplies remain stable and accessible even in the face of unpredictable weather patterns and other environmental challenges.
+
 # Introduction
 This repository contains code for monitoring wheat growth &amp; climate impact using satellite NDVI in South Asia, using machine learning techniques for data analysis and visualization. 
 
